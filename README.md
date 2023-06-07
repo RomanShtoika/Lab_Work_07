@@ -59,3 +59,6 @@ Task_1: <br>
 
 
 
+# Support
+
+If you encounter any issues while running the project, please reach out to us at roman.shtoika.tr.2021@lpnu.ua
