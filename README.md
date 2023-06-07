@@ -54,11 +54,11 @@ git clone https://github.com/RomanShtoika/Lab_Work_07
 
 Task_1: <br>
 
+![1](https://github.com/RomanShtoika/Lab_Work_07/assets/135036174/96b9d6b0-9ef5-43e8-9f3c-67abf2b79c7a)
 
+Task_2: <br>
 
-
-
-
+![2](https://github.com/RomanShtoika/Lab_Work_07/assets/135036174/04ebb5e7-8249-453f-b7b7-141d3256eb30)
 # Support
 
 If you encounter any issues while running the project, please reach out to us at roman.shtoika.tr.2021@lpnu.ua
